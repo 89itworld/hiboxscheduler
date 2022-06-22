@@ -1118,10 +1118,10 @@
   resolved "https://registry.yarnpkg.com/@microsoft/microsoft-graph-types-beta/-/microsoft-graph-types-beta-0.15.0-preview.tgz#fed0a99be4e1151d566cf063f024913fb48640cd"
   integrity sha512-M0zC4t3pmkDz7Qsjx/iZcS+zRuckzsbHESvT9qjLFv64RUgkRmDdmhcvPMiUqUzw/h3YxfYAq9MU+XWjROk/dg==
 
-"@next/bundle-analyzer@11.1.2":
-  version "11.1.2"
-  resolved "https://registry.yarnpkg.com/@next/bundle-analyzer/-/bundle-analyzer-11.1.2.tgz#7892c86f58028399000f402a5c7ca8aecb65686f"
-  integrity sha512-gDQ+tG8S+7fEL2NqubhZRFvQEYB4tKavTqONHDqSVxBMZ8sSzm12IzF2zZDIXdnrMzD90wmIZFUjC0EFnoHMSg==
+"@next/bundle-analyzer@11.1.4":
+  version "11.1.4"
+  resolved "https://registry.yarnpkg.com/@next/bundle-analyzer/-/bundle-analyzer-11.1.4.tgz#cb1ebc6a7452a021cc34341e778c8c7219066f9a"
+  integrity sha512-tLQQcpttLthDpO1sTRlnZixJ09C4tZlFeYWvljMq1BbyWEOZB/QuqSjJY8055AiLAhcAbpm+qhvvYgk0zAWkGQ==
   dependencies:
     webpack-bundle-analyzer "4.3.0"
 
